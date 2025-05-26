@@ -55,4 +55,5 @@ Here are a few ideas I might add to this README in the future:
 ---
 
 Thank you for visiting this repository!  
-Feel free to use or adapt these scripts for your own AWS practice projects. 🚀
+This repository is licensed for personal learning purposes only.  
+See the LICENSE file for more details.
