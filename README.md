@@ -21,6 +21,9 @@ I'm sharing them here both to document my progress and to potentially help other
 - **Shell (.sh) scripts:**  
   AWS CLI commands for quickly launching instances and managing resources.
 
+- **Terraform (.tf):**
+  Simply project Terraform-AWS
+
 ---
 
 ## Notes
